@@ -9,9 +9,10 @@ Even though it seems a silly application, ohce knows a thing or two.
 
 1. When you start oche, it greets you differently depending on the current time, but only in Spanish:
 
-    Between 20 and 6 hours, ohce will greet you saying: ¡Buenas noches < your name >!
-    Between 6 and 12 hours, ohce will greet you saying: ¡Buenos días < your name >!
-    Between 12 and 20 hours, ohce will greet you saying: ¡Buenas tardes < your name >!
+    Between 20 and 6 hours, ohce will greet you saying: ¡Buenas noches < your name >!<br>
+    Between 6 and 12 hours, ohce will greet you saying: ¡Buenos días < your name >!<br>
+    Between 12 and 20 hours, ohce will greet you saying: ¡Buenas tardes < your name >!<br>
+
 2. When you introduce a palindrome, ohce likes it and after reverse-echoing it, it adds ¡Bonita palabra!
 3. ohce knows when to stop, you just have to write Stop! and it'll answer Adios < your name > and end.
 
